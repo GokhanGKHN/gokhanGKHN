@@ -7,7 +7,7 @@
 - **Veritabanları:** MSSQL(TSQL),ORACLE(PLSQL)
 
 ## İletişim
-- **E-posta:** gokhan.namli@outlook.com
+- **E-posta:**  gokhan.namli@outlook.com
 - **LinkedIn:** www.linkedin.com/in/gokhangkhn
 
 ## Takip Et
