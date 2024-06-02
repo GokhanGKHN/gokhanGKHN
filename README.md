@@ -1,10 +1,11 @@
-# Merhaba! Ben [Gökhan Namlı]
+# Merhaba! Ben Gökhan Namlı
 
 
 ## Becerilerim
-- **Programlama Dilleri:** C#, JavaScript, PHP, HTML, CSS,Python(Matplotlib,Seaborn,scikit-learn,NumPy,Pandas)
+- **Programlama Dilleri:** HTML, CSS, JavaScript, C#, PHP, Python
 - **Web Teknolojileri:** Web API, RestFull,Soap
-- **Veritabanları:** MSSQL(TSQL),ORACLE(PLSQL)
+- **Data Analysis:** Python(Matplotlib,Seaborn,scikit-learn,NumPy,Pandas), SQL,TSQL,PLSQL
+- **Veritabanları:** SQL, MSSQL(TSQL),ORACLE(PLSQL)
 
 ## İletişim
 - **E-posta:**  gokhan.namli@outlook.com
