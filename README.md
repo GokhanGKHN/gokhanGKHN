@@ -4,8 +4,8 @@
 ## Becerilerim
 - **Programlama Dilleri:** HTML, CSS, JavaScript, C#, PHP, Python
 - **Web Teknolojileri:** Web API, ASP.NET Core, RestFull, SOAP
-- **Data Analysis:** Python(Matplotlib,Seaborn,scikit-learn,NumPy,Pandas) and Jupyter Notebook, SQL,MSSQL(TSQL),ORACLE(PLSQL)
-- **Veritabanları:** SQL, MSSQL(TSQL),ORACLE(PLSQL)
+- **Data Analysis:** Python(Matplotlib,Seaborn,scikit-learn,NumPy,Pandas) and Jupyter Notebook, SQL, MSSQL(T-SQL),ORACLE(PL-SQL)
+- **Veritabanları:** SQL, MSSQL(T-SQL),ORACLE(PL-SQL)
 
 ## İletişim
 - **E-posta:**  gokhan.namli@outlook.com
