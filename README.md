@@ -2,7 +2,7 @@
 
 
 ## Becerilerim
-- **Programlama Dilleri:** HTML, CSS, JavaScript, C#, PHP, Python
+- **Programlama Dilleri:** HTML, CSS, JavaScript, C#, PHP, Python, Dart
 - **Web Teknolojileri:** Web API, ASP.NET Core, RestFull, SOAP
 - **Data Analysis:** Python(Matplotlib,Seaborn,scikit-learn,NumPy,Pandas) and Jupyter Notebook, SQL, MSSQL(T-SQL),ORACLE(PL-SQL)
 - **Veritabanları:** MSSQL(T-SQL),ORACLE(PL-SQL)
