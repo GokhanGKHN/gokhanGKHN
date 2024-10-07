@@ -8,13 +8,14 @@ Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem fro
 ### Programlama Dilleri
 - **HTML, CSS** (Flexbox, Grid, Bootstrap, Tailwind CSS)
 - **JavaScript** (ES6, DOM), **C#**, **PHP**, **Python**, **Google** (Dart)
-### Mobile
-- **Flutter Sdk**
 ### Frontend Teknolojileri
 - **Vue.js**, **React**, **jQuery**
 
 ### Backend Teknolojileri
 - **Node.js**(npm), **Express.js** (EJS), **ASP.NET**,
+
+### Mobile
+- **Flutter Sdk**
 
 ### API
 - REST, RESTful, SOAP, **Postman** ile API entegrasyonu
