@@ -4,7 +4,7 @@
 Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem frontend hem de backend alanlarında geniş bir teknoloji yelpazesi ile çalışmaktayım. Veritabanı yönetimi, API entegrasyonları ve veri analizi konusunda yetkinim. Teknolojiye olan tutkumla sürekli yeni bilgiler öğrenmeye ve uygulamaya açık bir profesyonelim.
 
 ## Becerilerim
-
+___
 ### Programlama Dilleri
 - **HTML, CSS** (Flexbox, Grid, Bootstrap, Tailwind CSS)
 - **JavaScript** (ES6, DOM), **C#**, **PHP**, **Python**, **Google** (Dart)
