@@ -1,9 +1,9 @@
 # Merhaba! Ben Gökhan Namlı
 
-## Hakkımda
+# Hakkımda
 Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem frontend hem de backend alanlarında geniş bir teknoloji yelpazesi ile çalışmaktayım. Veritabanı yönetimi, API entegrasyonları ve veri analizi konusunda yetkinim. Teknolojiye olan tutkumla sürekli yeni bilgiler öğrenmeye ve uygulamaya açık bir profesyonelim.
 
-## Becerilerim
+# Becerilerim
 
 ### Programlama Dilleri
 - **HTML, CSS** (Flexbox, Grid, Bootstrap, Tailwind CSS)
@@ -29,7 +29,7 @@ Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem fro
 -**SQL**, **MSSQL** (Microsoft SQL Server Management Studio) (T-SQL), **Oracle**(Oracle SQL Developer | Toad® for Oracle) (PL/SQL) ,**PostgreSQL**(PL/pgSQL), **MongoDB**(NoSQL) , **Elasticsearch**
 ***
 
-## İletişim
+# İletişim
 
 - **E-posta:** [gokhan.namli@outlook.com](mailto:gokhan.namli@outlook.com)
 - **LinkedIn:** [linkedin.com/in/gokhangkhn](https://www.linkedin.com/in/gokhangkhn)
