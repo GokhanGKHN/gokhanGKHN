@@ -29,6 +29,11 @@ Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem fro
 -**SQL**, **MSSQL** (Microsoft SQL Server Management Studio) (T-SQL), **Oracle**(Oracle SQL Developer | Toad® for Oracle) (PL/SQL) ,**PostgreSQL**(PL/pgSQL), **MongoDB**(NoSQL) , **Elasticsearch**
 ***
 
+## CLI
+-**Linux Bash**,**Windows cmd(command promp) and PowerShell**
+
+## Server
+-**Windows Server** (Active Directory (AD),DNS (Domain Name System),DHCP (Dynamic Host Configuration Protocol),File Services,Print Services,IIS(HTTP, HTTPS, FTP...),Remote Desktop Services (RDS),Hyper-V),Windows Update Services (WSUS),Failover ClusteringNetwork Policy and Access Services (NPAS)(VPN,RADIUS ),Storage Services(SAN)
 # İletişim
 
 - **E-posta:** [gokhan.namli@outlook.com](mailto:gokhan.namli@outlook.com)
