@@ -30,8 +30,17 @@ Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem fro
 ***
 
 ## CLI
--**Linux** Bash,**Windows** cmd(command promp) and PowerShelL, git github and version control
-
+-**Linux** Bash,**Windows** cmd(command promp) and PowerShelL, 
+***
+## Git
+- git github and version control
+***
+## Data Exchange Format
+- JavaScript Object Notation (JSON)
+- Extensible Markup Language (XML)
+- Ain't Markup Language (YAML)
+- Comma-Separated Values (CSV)
+***
 ## Server
 ### Windows Server
 - (Active Directory (AD),
@@ -44,6 +53,7 @@ Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem fro
 - Hyper-V),
 - Failover ClusteringNetwork Policy and Access Services (NPAS)(VPN,RADIUS ),
 - Storage Services(SAN)
+***
 # İletişim
 
 - **E-posta:** [gokhan.namli@outlook.com](mailto:gokhan.namli@outlook.com)
