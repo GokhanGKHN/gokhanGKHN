@@ -30,7 +30,7 @@ Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem fro
 ***
 
 ## CLI
--**Linux Bash**,**Windows cmd(command promp) and PowerShell**
+-**Linux** Bash,**Windows** cmd(command promp) and PowerShelL, git github and version control
 
 ## Server
 ### Windows Server
