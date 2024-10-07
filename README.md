@@ -8,25 +8,26 @@ Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem fro
 ### Programlama Dilleri
 - **HTML, CSS** (Flexbox, Grid, Bootstrap, Tailwind CSS)
 - **JavaScript** (ES6, DOM), **C#**, **PHP**, **Python**, **Google** (Dart)
+---
 ### Frontend Teknolojileri
 - **Vue.js**, **React**, **jQuery**
-
+---
 ### Backend Teknolojileri
 - **Node.js**(npm), **Express.js** (EJS), **ASP.NET**,
-
+---
 ### Mobile
 - **Flutter Sdk**
-
+---
 ### API
 - REST, RESTful, SOAP, **Postman** ile API entegrasyonu
-
+---
 ### Veri Analizi
 - **Python** (Matplotlib, Seaborn, Scikit-learn, NumPy, Pandas)
 - **Jupyter Notebook**
-
+___
 ### Veritabanları
 -**SQL**, **MSSQL** (Microsoft SQL Server Management Studio) (T-SQL), **Oracle**(Oracle SQL Developer | Toad® for Oracle) (PL/SQL) ,**PostgreSQL**(PL/pgSQL), **MongoDB**(NoSQL) , **Elasticsearch**
-
+___
 ## İletişim
 
 - **E-posta:** [gokhan.namli@outlook.com](mailto:gokhan.namli@outlook.com)
