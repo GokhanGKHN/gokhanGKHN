@@ -51,7 +51,7 @@ Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem fro
 - IIS **Web Server** (HTTP, HTTPS, FTP...),
 - Remote Desktop Services (RDS),
 - Hyper-V),
-- Failover ClusteringNetwork Policy and Access Services (NPAS)(VPN,RADIUS ),
+- Failover ClusteringNetwork Policy and Access Services (NPAS)(VPN, RADIUS (Remote Authentication Dial-In User Service(Authentication, Authorization, Accounting)),
 - Storage Services(SAN)
 ***
 # İletişim
