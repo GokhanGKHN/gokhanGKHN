@@ -30,7 +30,8 @@ Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem fro
 ***
 
 ## CLI
--**Linux** Bash,**Windows** cmd(command promp) and PowerShelL, 
+- **Linux** Bash,
+- **Windows** cmd(command promp) and PowerShelL
 ***
 ## Git
 - git github and version control
