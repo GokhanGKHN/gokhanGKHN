@@ -25,7 +25,7 @@ Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem fro
 - **Jupyter Notebook**
 
 ### Veritabanları
--**SQL**, **MSSQL** (T-SQL), **Oracle** (PL/SQL) ,**PostgreSQL**(PL/pgSQL), **MongoDB**(NoSQL) , **Elasticsearch**
+-**SQL**, **MSSQL(SSMS)** (T-SQL), **Oracle**(Oracle SQL Developer | Toad® for Oracle) (PL/SQL) ,**PostgreSQL**(PL/pgSQL), **MongoDB**(NoSQL) , **Elasticsearch**
 
 ## İletişim
 
