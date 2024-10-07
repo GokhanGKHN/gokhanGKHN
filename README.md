@@ -2,9 +2,11 @@
 
 
 ## Becerilerim
-- **Programlama Dilleri:** HTML, CSS, JavaScript, C#, PHP, Python, Google(Dart)
-- **Web Teknolojileri:** Web API, ASP.NET Core, RestFull, SOAP
-- **Data Analysis:** Python(Matplotlib,Seaborn,scikit-learn,NumPy,Pandas) and Jupyter Notebook, SQL, MSSQL(T-SQL),ORACLE(PL-SQL)
+- **Programlama Dilleri:** HTML, CSS(Flexbox,Grid,Bootstrap,Tailwind css), JavaScript(ES6,DOM), C#, PHP, Python, Google(Dart)
+- **Frontend** Vue.js, React, jQuery
+- **Backend** Node.js, ASP.NET
+- **API:** REST,RESTful,SOAP, POSTMAN
+- **Data Analysis:** Python(Matplotlib,Seaborn,scikit-learn,NumPy,Pandas) and Jupyter Notebook
 - **Veritabanları:** MSSQL(T-SQL),ORACLE(PL-SQL)
 
 ## İletişim
