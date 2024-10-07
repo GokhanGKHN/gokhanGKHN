@@ -13,7 +13,7 @@ Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem fro
 - **Vue.js**, **React**, **jQuery**
 
 ### Backend Teknolojileri
-- **Node.js**, **Express.js**, **ASP.NET**
+- **Node.js**, **Express.js** (EJS), **ASP.NET**
 
 ### API
 - REST, RESTful, SOAP, **Postman** ile API entegrasyonu
