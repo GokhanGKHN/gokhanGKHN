@@ -33,7 +33,7 @@ Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem fro
 -**Linux Bash**,**Windows cmd(command promp) and PowerShell**
 
 ## Server
-- ### Windows Server
+### Windows Server
 - (Active Directory (AD),
 - DNS (Domain Name System),
 - DHCP (Dynamic Host Configuration Protocol),
