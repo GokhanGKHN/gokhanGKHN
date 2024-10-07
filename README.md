@@ -1,19 +1,35 @@
 # Merhaba! Ben Gökhan Namlı
 
+## Hakkımda
+Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem frontend hem de backend alanlarında geniş bir teknoloji yelpazesi ile çalışmaktayım. Veritabanı yönetimi, API entegrasyonları ve veri analizi konusunda yetkinim. Teknolojiye olan tutkumla sürekli yeni bilgiler öğrenmeye ve uygulamaya açık bir profesyonelim.
 
 ## Becerilerim
-- **Programlama Dilleri:** HTML, CSS(Flexbox,Grid,Bootstrap,Tailwind css), JavaScript(ES6,DOM), C#, PHP, Python, Google(Dart)
-- **Frontend** Vue.js, React, jQuery
-- **Backend** Node.js, Express.js ,ASP.NET
-- **API:** REST,RESTful, SOAP, POSTMAN
-- **Data Analysis:** Python(Matplotlib,Seaborn,scikit-learn,NumPy,Pandas) and Jupyter Notebook
-- **Veritabanları:** MSSQL(T-SQL),ORACLE(PL-SQL)
+
+### Programlama Dilleri
+- **HTML, CSS** (Flexbox, Grid, Bootstrap, Tailwind CSS)
+- **JavaScript** (ES6, DOM), **C#**, **PHP**, **Python**, **Google** (Dart)
+
+### Frontend Teknolojileri
+- **Vue.js**, **React**, **jQuery**
+
+### Backend Teknolojileri
+- **Node.js**, **Express.js**, **ASP.NET**
+
+### API
+- REST, RESTful, SOAP, **Postman** ile API entegrasyonu
+
+### Veri Analizi
+- **Python** (Matplotlib, Seaborn, Scikit-learn, NumPy, Pandas)
+- **Jupyter Notebook**
+
+### Veritabanları
+- **MSSQL** (T-SQL), **Oracle** (PL-SQL)
 
 ## İletişim
-- **E-posta:**  gokhan.namli@outlook.com
-- **LinkedIn:** www.linkedin.com/in/gokhangkhn
+
+- **E-posta:** [gokhan.namli@outlook.com](mailto:gokhan.namli@outlook.com)
+- **LinkedIn:** [linkedin.com/in/gokhangkhn](https://www.linkedin.com/in/gokhangkhn)
 
 ## Takip Et
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokhangkhn)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/GokhanGKHN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/gokhangkhn) [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/GokhanGKHN)
 
