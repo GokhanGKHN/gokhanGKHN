@@ -28,6 +28,11 @@ Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem fro
   ## Veritabanları
 -**SQL**, **MSSQL** (Microsoft SQL Server Management Studio) (T-SQL), **Oracle**(Oracle SQL Developer | Toad® for Oracle) (PL/SQL) ,**PostgreSQL**(PL/pgSQL), **MongoDB**(NoSQL) , **Elasticsearch**
 ***
+## Sunucu
+- **Windows Server**(IIS,Active Directory)  
+- **NGINX**
+- **Apache HTTP Server**
+***
 ## İletişim
 
 - **E-posta:** [gokhan.namli@outlook.com](mailto:gokhan.namli@outlook.com)
