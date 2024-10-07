@@ -48,7 +48,7 @@ Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem fro
 - DHCP (Dynamic Host Configuration Protocol),
 - File Services,
 - Print Services,
-- IIS(HTTP, HTTPS, FTP...),
+- IIS **Web Server** (HTTP, HTTPS, FTP...),
 - Remote Desktop Services (RDS),
 - Hyper-V),
 - Failover ClusteringNetwork Policy and Access Services (NPAS)(VPN,RADIUS ),
