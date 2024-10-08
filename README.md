@@ -13,7 +13,7 @@ Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem fro
 - **Vue.js**, **React**, **jQuery**
 ---
 ### Backend Teknolojileri
-- **Node.js**(npm), **Express.js** (EJS), **ASP.NET**,
+- **Node.js**(runtime environment) and **Express.js** (EJS), **ASP.NET**,
 ---
 ### Mobile
 - **Flutter Sdk**
