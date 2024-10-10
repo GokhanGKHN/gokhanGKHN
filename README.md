@@ -10,23 +10,35 @@ Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem fro
 - **JavaScript** (ES6, DOM), **C#**, **PHP**, **Python**, **Google** (Dart)
 ---
 ### Frontend Teknolojileri
-- **Vue.js**, **React**, **jQuery**
+- **Vue.js**
+- **React**
+- **jQuery**
 ---
 ### Backend Teknolojileri
-- **Node.js**(runtime environment) and **Express.js** (EJS), **ASP.NET**,
+- **Node.js**(runtime environment) and **Express.js**
+- **ASP.NET**
+- **Embedded js**
 ---
 ### Mobile
 - **Flutter Sdk**
 ---
 ### API
-- REST, RESTful, SOAP, **Postman** ile API entegrasyonu
+- REST
+- RESTful
+- SOAP
+- **Postman** ile API entegrasyonu
 ---
 ### Veri Analizi
 - **Python** (Matplotlib, Seaborn, Scikit-learn, NumPy, Pandas)
 - **Jupyter Notebook**
 ---
   ## Veritabanları
-- **SQL**, **MSSQL** (Microsoft SQL Server Management Studio) (T-SQL), **Oracle**(Oracle SQL Developer | Toad® for Oracle) (PL/SQL) ,**PostgreSQL**(PL/pgSQL), **MongoDB**(NoSQL) , **Elasticsearch**
+- **SQL**
+- **MSSQL** (Microsoft SQL Server Management Studio) (T-SQL),
+- **Oracle**(Oracle SQL Developer | Toad® for Oracle) (PL/SQL)
+- **PostgreSQL**(PL/pgSQL)
+- **MongoDB**(NoSQL)
+- **Elasticsearch**
 ***
 
 ## CLI
@@ -37,10 +49,10 @@ Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem fro
 - git github and version control
 ***
 ## Data Exchange Format
-- JavaScript Object Notation (JSON)
-- Extensible Markup Language (XML)
-- Ain't Markup Language (YAML)
-- Comma-Separated Values (CSV)
+- JavaScript Object Notation (**JSON**)
+- Extensible Markup Language (**XML**)
+- Ain't Markup Language (**YAML**)
+- Comma-Separated Values (**CSV**)
 ***
 ## Server
 ### Windows Server
