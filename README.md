@@ -1,8 +1,5 @@
 # Merhaba! Ben Gökhan Namlı
 
-# Hakkımda
-Kendini sürekli geliştirmeye adamış bir yazılım geliştiricisiyim. Hem frontend hem de backend alanlarında geniş bir teknoloji yelpazesi ile çalışmaktayım. Veritabanı yönetimi, API entegrasyonları ve veri analizi konusunda yetkinim. Teknolojiye olan tutkumla sürekli yeni bilgiler öğrenmeye ve uygulamaya açık bir profesyonelim.
-
 # Becerilerim
 
 ### Programlama Dilleri
