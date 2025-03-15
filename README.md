@@ -28,6 +28,7 @@
 ### Veri Analizi
 - **Python** (Matplotlib, Seaborn, Scikit-learn, NumPy, Pandas)
 - **Jupyter Notebook**
+- **SQL, T-SQL, PL/SQL**
 ---
   ## Veritabanları
 - **SQL**
@@ -51,17 +52,35 @@
 - Ain't Markup Language (**YAML**)
 - Comma-Separated Values (**CSV**)
 ***
+## Network
+- OSI (Physical Layer,Data Link Layer,Network Layer,Transport Layer,Session Layer,Presentation Layer,Application Layer),
+- TCP/IP
+- IP,Subnet, Subnetting
+- Gateway,
+- Routing,
+- NAT (Network Address Translation)
+- Port Forwarding
+- VPN,
+- RADIUS (Remote Authentication Dial-In User Service(Authentication, Authorization, Accounting)
+
 ## Server
 ### Windows Server
-- (Active Directory (AD),
-- DNS (Domain Name System),
-- DHCP (Dynamic Host Configuration Protocol),
-- File Services,
-- Print Services,
-- IIS **Web Server** (HTTP, HTTPS, FTP...),
+- Domain Controler (DC),
+- Active Directory (AD), Group Policy Management (GPO), Lightweight Directory Access Protocol (LDAP)
+- DNS Server,
+- DHCP Server,
+- File Server,
+- File Server Resource Manager (FSRM),
+- FTP and SFTP Server
+- Disk Management,
+- Windows Server Monitor,
+- Event Wiewer,
+- Print Server,
+- Windows Deployment Server (WDS)
+- IIS **Web Server** (HTTP, HTTPS...),
 - Remote Desktop Services (RDS),
-- Hyper-V),
-- Failover ClusteringNetwork Policy and Access Services (NPAS)(VPN, RADIUS (Remote Authentication Dial-In User Service(Authentication, Authorization, Accounting)),
+- Hyper-V WMware,
+- Failover ClusteringNetwork Policy and Access Services (NPAS)
 - Storage Services(SAN)
 ***
 # İletişim
